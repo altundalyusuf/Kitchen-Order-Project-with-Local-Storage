@@ -1,2 +1,2 @@
-# Kitchen-Order-Project-with-Local-Storage
+# Kitchen Order Project with React and Local Storage
 This project is a order-kitchen project. I used React, MDBBootstrap, Local Storage and more... 
